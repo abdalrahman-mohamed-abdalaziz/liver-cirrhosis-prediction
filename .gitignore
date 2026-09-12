@@ -9,7 +9,7 @@ venv/
 env/
 
 # Trained models / artifacts (large binary files - track separately if needed)
-*.pkl
+
 
 # OS
 .DS_Store
